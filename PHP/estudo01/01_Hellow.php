@@ -1,21 +1,22 @@
 <?php 
 	echo '
 	<div id="textoConteudo">
-		<h1>HELLOW WORD!</h1>
+		<h1>HELLOW WORD!!!</h1>
 
 		O PHP apresenta mais de um comando de impressão de conteúdo, e neste primeiro momento o comando que será utilizado para tal função é o<br />
 		"ECHO", que recebe um valor e exibe o conteúdo no arquivo HTML. O comando echo será abordado de forma mais detalhada adiante. Por<br />
 		enquanto, o que interessa é a funcionalidade do recurso.
 
+		
 		<br /><br />
-		<strong>
-		< ?php
 
-		<br /> 
-			echo "HELLOW WORD";
-		<br />
-		?>
-		</strong>
+		A primeira linha do código-fonte 2.1 indica que comandos PHP serão executado dessa tag até seu fechamento, realizado na ultima linha do exemplo, 
+		por meio da expressão <strong>?></strong>. A tag inicial de abertura do códigos PHP é <strong>< ?php</strong>, mas no decorrer do arquivo, caso
+		haja outros fechamentos e novas aberturas, pode ser utilizado somente <strong>< ?</strong>, indicando a reabertura de blocos PHP dependendo do
+		sistema operacional utilizado.
+
+		
+		
 		<br /><br /><br /><br /><br /><br />
 
 	</div>
