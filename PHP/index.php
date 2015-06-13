@@ -9,18 +9,17 @@
 	<body>
 		
 		<div id="topo">
-			<div class="tituloPHP"><a href="?escolhaMenu=historia">PHP</a></div>
+			<div class="tituloPHP"><a href="?escolhaMenu=historia">AULA PHP</a></div>
 
 			<ul class="menu">
 				
 				<li><a href="">LINGUAGEM PHP</a>
 					<ul class="submenu1">
 						<li><a href="?escolhaMenu=hellow">HELLOW WORD!</a></li>
-						<li><a href="">VARIÁVEIS</a></li>
-						<li><a href="">VARIÁVEIS</a></li>
-						<li><a href="">TIPOS DE DADOS</a></li>
-						<li><a href="">CONSTANTES</a></li>
-						<li><a href="">OPERADORES MATEMÁTICOS</a></li>
+						<li><a href="?escolhaMenu=variavel">VARIÁVEIS</a></li>
+						<li><a href="?escolhaMenu=tipoDados">TIPOS DE DADOS</a></li>
+						<li><a href="?escolhaMenu=constantes">CONSTANTES</a></li>
+						<li><a href="?escolhaMenu=operadoresMatematicos">OPERADORES MATEMÁTICOS</a></li>
 						<li><a href="">OPPERADORES CONDICIONAIS</a></li>
 						<li><a href="">OPERADORES LÓGICOS BÁSICOS</a></li>
 						<li><a href="">CONTROLE E REPETIÇÃO</a>
