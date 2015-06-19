@@ -20,13 +20,13 @@
 						<li><a href="?escolhaMenu=tipoDados">TIPOS DE DADOS</a></li>
 						<li><a href="?escolhaMenu=constantes">CONSTANTES</a></li>
 						<li><a href="?escolhaMenu=operadoresMatematicos">OPERADORES MATEMÁTICOS</a></li>
-						<li><a href="">OPPERADORES CONDICIONAIS</a></li>
-						<li><a href="">OPERADORES LÓGICOS BÁSICOS</a></li>
+						<li><a href="?escolhaMenu=operadoresCondicionais">OPPERADORES CONDICIONAIS</a></li>
+						<li><a href="?escolhaMenu=operadoresLogicosBasicos">OPERADORES LÓGICOS BÁSICOS</a></li>
 						<li><a href="">CONTROLE E REPETIÇÃO</a>
 
 							<ul class="submenu2">
-								<li><a href="">IF</a></li>
-								<li><a href="">SWITCH</a></li>
+								<li><a href="?escolhaMenu=if">IF</a></li>
+								<li><a href="?escolhaMenu=switch">SWITCH</a></li>
 								<li><a href="">FOR</a></li>
 								<li><a href="">FOREACH</a></li>
 								<li><a href="">WHILE</a></li>

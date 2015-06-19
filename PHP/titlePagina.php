@@ -20,6 +20,18 @@ if($escolha == "historia"){
 	else if($escolha == "operadoresMatematicos"){
 	echo "Operadores Matemáticos";
 	}
+	else if($escolha == "operadoresCondicionais"){
+	echo "Operadores Condicionais";
+	}
+	else if($escolha == "operadoresLogicosBasicos"){
+	echo "Operadores Lógicos Básicos";
+	}
+	else if($escolha == "if"){
+	echo "IF";
+	}	
+	else if($escolha == "switch"){
+	echo "SWITCH";
+	}
 	else if($escolha != "historia"){
 	echo "História PHP";
 	}
